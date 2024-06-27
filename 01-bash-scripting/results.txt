@@ -1,0 +1,2 @@
+tar - OK
+cp - OK
